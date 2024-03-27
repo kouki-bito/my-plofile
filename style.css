@@ -1,0 +1,7 @@
+.imgColection{
+    display: flex;
+}
+.imgColection img{
+    width: 200px;
+    margin: 20px;
+}
